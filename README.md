@@ -1,7 +1,7 @@
 <h1 align="left">Hey there👋, My name is Mudit Garg</h1> 
 <h2>Nice to meet you 🤝</h2>
 
-- 👨‍💻 I am currently learning about Java, Oops, Data Structures and Algorithms
+- 👨‍💻 I am currently learning about Chrome extensions, Java, Oops, Data Structures and Algorithms
 
 - 🔭 My Latest Project [Notes-Mern-App](https://notes-mern-web-app.herokuapp.com/)
 
