@@ -3,7 +3,7 @@
 
 - 👨‍💻 I am exploring and learning about MERN stack, Chrome extensions, Java, Oops, Data Structures and Algorithms
 
-- 🔭 My Latest Project [Notes-Mern-App](https://notes-mern-web-app.herokuapp.com/)
+- 🔭 My Latest Project [Magic URL](https://magic-url.cyclic.app/)
 
 - 💼 All of my projects are available at [https://mudit-portfolio.netlify.app/](https://mudit-portfolio.netlify.app/)
 
