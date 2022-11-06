@@ -1,7 +1,7 @@
 <h2 align="left">Hey there 👋👋</h2> 
 My name is Mudit Garg 🧑‍💻. Nice to meet you 🤝
 
-- 👨‍💻 I am exploring and learning about MERN stack, Chrome extensions, Java, Oops, Data Structures and Algorithms
+- 👨‍💻 I am exploring and learning about MERN(MongoDB, Express, React.js, and Node.js) stack, Java, OOPs, Data Structures and Algorithms
 
 - 🔭 My Latest Project [Magic URL](https://magic-url.cyclic.app/)
 
