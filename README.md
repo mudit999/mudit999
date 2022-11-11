@@ -1,11 +1,11 @@
 <h2 align="left">Hey there 👋👋</h2> 
 My name is Mudit Garg 🧑‍💻. Nice to meet you 🤝
 
-- 👨‍💻 I am exploring and learning about MERN(MongoDB, Express, React.js, and Node.js) stack, Java, OOPs, Data Structures and Algorithms
+- 👨‍💻 I am exploring and learning about JavaScript, React.js, Node.js, Java, OOPs, Data Structures and Algorithms
 
 - 🔭 My Latest Project [Magic URL](https://magic-url.cyclic.app/)
 
-- 💼 All of my projects are available at [https://mudit-portfolio.netlify.app/](https://mudit-portfolio.netlify.app/)
+- 💼 My portfolio. Check it out - [Link](https://mudit-portfolio.netlify.app/)
 
 - 📬 Let's connect over mail. Drop me mail at muditgarg1211@gmail.com
 
