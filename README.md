@@ -3,8 +3,6 @@ My name is Mudit Garg 🧑‍💻. Nice to meet you 🤝
 
 - 👨‍💻 I am exploring and learning about React Native, Javascript and Java
 
-- 🔭 My Latest Project [Magic URL](https://magic-url.cyclic.app/)
-
 - 💼 My portfolio. Check it out - [Link](https://mudit-portfolio.netlify.app/)
 
 - 📬 Let's connect over mail. Drop me mail at muditgarg1211@gmail.com
@@ -16,6 +14,7 @@ My name is Mudit Garg 🧑‍💻. Nice to meet you 🤝
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
