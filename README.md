@@ -1,9 +1,7 @@
 <h2 align="left">Hey there 👋👋</h2> 
 My name is Mudit Garg 🧑‍💻. Nice to meet you 🤝
 
-- 👨‍💻 I am exploring and learning about React Native, Javascript and Java
-
-- 💼 My portfolio. Check it out - [Link](https://mudit-portfolio.netlify.app/)
+- 👨‍💻 I am exploring and learning about Java, React Native, and Javascript
 
 - 📬 Let's connect over mail. Drop me mail at muditgarg1211@gmail.com
 
