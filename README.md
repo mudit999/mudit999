@@ -1,7 +1,8 @@
 <h2 align="left">Hey there 👋👋</h2> 
 My name is Mudit Garg 🧑‍💻. Nice to meet you 🤝
 
-- 👨‍💻 I am exploring and learning about Java, React Native, and Javascript
+- 👨‍💻 I am exploring and learning about Java, Spring Boot, Hibernate, and MySQL
+- I have worked in React Native, React.js, Javascript, Redux, HTML, and CSS
 
 - 📬 Let's connect over mail. Drop me mail at muditgarg1211@gmail.com
 
